@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\bin\Debug\TesteSlack.exe.config
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\bin\Debug\TesteSlack.exe
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\bin\Debug\TesteSlack.pdb
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\App.g.cs
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack_MarkupCompile.cache
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack_MarkupCompile.lref
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\MainWindow.baml
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.g.resources
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.Properties.Resources.resources
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.csproj.GenerateResource.Cache
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.exe
+C:\Users\aluno\source\repos\TesteSlack\TesteSlack\obj\Debug\TesteSlack.pdb
